@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="WalletHubFramwrk">
+	<test name="testngTest">
+		<parameter name="browser" value="chrome" />
+			<classes>
+			 	<class name="com.WalletHub.Tests.WalHubPostReviewTest" /> 
+			</classes>
+		</test>
+	</suite>

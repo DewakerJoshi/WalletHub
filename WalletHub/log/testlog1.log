@@ -1,0 +1,258 @@
+2020-05-07 09:37:59,517 [main] INFO BaseClass - URL is entered
+2020-05-07 09:41:18,328 [main] INFO BaseClass - URL is entered
+2020-05-07 09:41:31,922 [main] INFO BaseClass - Facebook – log in or sign up
+2020-05-07 09:44:18,887 [main] INFO BaseClass - URL is entered
+2020-05-07 09:57:21,526 [main] INFO BaseClass - URL is entered
+2020-05-07 09:57:34,606 [main] INFO BaseClass - no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='_1mf _1mj']"}
+  (Session info: chrome=81.0.4044.129)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SREYASH', ip: '192.168.1.9', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.129, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\SREYAS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53655}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 23e2b52954f0df714c766977054cad55
+*** Element info: {Using=xpath, value=//div[@class='_1mf _1mj']}
+2020-05-07 10:00:42,101 [main] INFO BaseClass - URL is entered
+2020-05-07 10:00:42,593 [main] INFO BaseClass - null
+2020-05-07 10:02:11,863 [main] INFO BaseClass - URL is entered
+2020-05-07 10:02:23,089 [main] INFO BaseClass - no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='_1mf _1mj']"}
+  (Session info: chrome=81.0.4044.129)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SREYASH', ip: '192.168.1.9', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.129, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\SREYAS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54259}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a75aa15aa3f24d31df03236153536aa5
+*** Element info: {Using=xpath, value=//div[@class='_1mf _1mj']}
+2020-05-07 10:02:46,015 [main] INFO BaseClass - URL is entered
+2020-05-07 10:04:56,436 [main] INFO BaseClass - URL is entered
+2020-05-07 10:04:57,129 [main] INFO BaseClass - null
+2020-05-07 10:06:39,359 [main] INFO BaseClass - URL is entered
+2020-05-07 10:06:44,885 [main] INFO BaseClass - null
+2020-05-07 10:14:06,269 [main] INFO BaseClass - null
+2020-05-07 10:14:33,337 [main] INFO BaseClass - null
+2020-05-07 20:29:40,539 [main] INFO BaseClass - null
+2020-05-07 20:31:17,730 [main] INFO BaseClass - null
+2020-05-07 20:31:56,892 [main] INFO BaseClass - null
+2020-05-07 20:34:14,432 [main] INFO BaseClass - URL is entered
+2020-05-07 20:34:15,112 [main] INFO BaseClass - null
+2020-05-07 20:42:26,594 [main] INFO BaseClass - URL is entered
+2020-05-07 20:42:27,433 [main] INFO BaseClass - null
+2020-05-07 20:46:42,888 [main] INFO BaseClass - URL is entered
+2020-05-07 21:18:20,667 [main] INFO BaseClass - null
+2020-05-07 21:25:09,930 [main] INFO BaseClass - null
+2020-05-07 21:26:05,390 [main] INFO BaseClass - URL is entered
+2020-05-07 21:26:06,831 [main] INFO BaseClass - null
+2020-05-07 21:28:13,787 [main] INFO BaseClass - URL is entered
+2020-05-07 21:28:14,484 [main] INFO BaseClass - null
+2020-05-07 21:29:19,909 [main] INFO BaseClass - URL is entered
+2020-05-07 21:29:20,565 [main] INFO BaseClass - null
+2020-05-07 21:32:54,268 [main] INFO BaseClass - URL is entered
+2020-05-07 21:33:16,122 [main] INFO BaseClass - null
+2020-05-07 21:34:49,680 [main] INFO BaseClass - URL is entered
+2020-05-07 21:35:01,235 [main] INFO BaseClass - PageLoaded completely
+2020-05-07 21:35:01,236 [main] INFO BaseClass - null
+2020-05-07 21:37:24,317 [main] INFO BaseClass - URL is entered
+2020-05-07 21:37:32,152 [main] INFO BaseClass - PageLoaded completely
+2020-05-07 21:37:32,153 [main] INFO BaseClass - null
+2020-05-07 21:39:34,226 [main] INFO BaseClass - URL is entered
+2020-05-07 21:42:17,606 [main] INFO BaseClass - URL is entered
+2020-05-07 21:42:26,211 [main] INFO BaseClass - PageLoaded completely
+2020-05-07 21:42:26,212 [main] INFO BaseClass - null
+2020-05-07 21:43:29,787 [main] INFO BaseClass - URL is entered
+2020-05-07 21:44:39,299 [main] INFO BaseClass - Expected condition failed: waiting for alert to be present (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SREYASH', ip: '192.168.1.9', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\SREYAS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c646d2e7ad663768accf0a316b63de73
+2020-05-07 21:46:06,214 [main] INFO BaseClass - URL is entered
+2020-05-07 21:46:44,341 [main] INFO BaseClass - Expected condition failed: waiting for alert to be present (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SREYASH', ip: '192.168.1.9', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\SREYAS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51474}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 47f8decb1c312526ef4ab20a8ecffaa5
+2020-05-07 21:47:55,618 [main] INFO BaseClass - URL is entered
+2020-05-07 21:48:37,051 [main] INFO BaseClass - Expected condition failed: waiting for alert to be present (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SREYASH', ip: '192.168.1.9', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\SREYAS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51544}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 181239bbd5438405943afad94ed85924
+2020-05-07 21:54:23,774 [main] INFO BaseClass - URL is entered
+2020-05-07 21:55:03,445 [main] INFO BaseClass - Expected condition failed: waiting for alert to be present (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SREYASH', ip: '192.168.1.9', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\SREYAS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51990}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cd62e91ca334550914642a488851dd6b
+2020-05-08 00:58:50,544 [main] INFO BaseClass - URL is entered
+2020-05-08 01:20:40,382 [main] INFO BaseClass - URL is entered
+2020-05-08 01:20:53,974 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 01:20:53,977 [main] INFO BaseClass - null
+2020-05-08 01:23:05,460 [main] INFO BaseClass - URL is entered
+2020-05-08 01:23:16,112 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 01:23:16,115 [main] INFO BaseClass - null
+2020-05-08 01:24:03,296 [main] INFO BaseClass - URL is entered
+2020-05-08 01:24:10,953 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 01:24:10,956 [main] INFO BaseClass - null
+2020-05-08 01:24:29,515 [main] INFO BaseClass - URL is entered
+2020-05-08 01:38:00,616 [main] INFO BaseClass - URL is entered
+2020-05-08 01:38:11,945 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 01:38:11,946 [main] INFO BaseClass - null
+2020-05-08 01:41:45,095 [main] INFO BaseClass - URL is entered
+2020-05-08 01:41:54,529 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 01:41:54,533 [main] INFO BaseClass - null
+2020-05-08 01:54:44,573 [main] INFO BaseClass - URL is entered
+2020-05-08 01:54:44,728 [main] INFO BaseClass - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='email']"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SREYASH', ip: '192.168.1.9', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\SREYAS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52574}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f85518dbf7eaf184438681ee12e2c4a4
+*** Element info: {Using=name, value=email}
+2020-05-08 01:54:58,176 [main] INFO BaseClass - URL is entered
+2020-05-08 01:54:58,277 [main] INFO BaseClass - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='email']"}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'SREYASH', ip: '192.168.1.9', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\SREYAS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52600}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 953271884411eb538a6ec1b8bb62b263
+*** Element info: {Using=name, value=email}
+2020-05-08 01:56:14,682 [main] INFO BaseClass - URL is entered
+2020-05-08 01:56:51,075 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 01:56:51,077 [main] INFO BaseClass - null
+2020-05-08 01:57:36,984 [main] INFO BaseClass - URL is entered
+2020-05-08 01:57:44,894 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 02:00:59,752 [main] INFO BaseClass - URL is entered
+2020-05-08 02:01:24,811 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 02:02:30,684 [main] INFO BaseClass - URL is entered
+2020-05-08 02:02:40,530 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 02:03:45,277 [main] INFO BaseClass - URL is entered
+2020-05-08 02:03:53,190 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 02:04:54,998 [main] INFO BaseClass - URL is entered
+2020-05-08 02:05:04,913 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 02:06:01,762 [main] INFO BaseClass - URL is entered
+2020-05-08 02:06:13,918 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 02:07:10,724 [main] INFO BaseClass - URL is entered
+2020-05-08 02:07:18,692 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 02:07:41,959 [main] INFO BaseClass - URL is entered
+2020-05-08 02:15:35,951 [main] INFO BaseClass - URL is entered
+2020-05-08 02:15:57,206 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 02:23:09,633 [main] INFO BaseClass - URL is entered
+2020-05-08 02:23:28,239 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 02:24:42,822 [main] INFO BaseClass - URL is entered
+2020-05-08 02:26:23,366 [main] INFO BaseClass - URL is entered
+2020-05-08 02:26:51,833 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 02:33:45,577 [main] INFO BaseClass - URL is entered
+2020-05-08 02:36:36,823 [main] INFO BaseClass - URL is entered
+2020-05-08 02:36:52,825 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 02:58:09,787 [main] INFO BaseClass - URL is entered
+2020-05-08 02:58:41,688 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 03:06:42,855 [main] INFO BaseClass - URL is entered
+2020-05-08 03:13:28,203 [main] INFO BaseClass - URL is entered
+2020-05-08 03:13:50,532 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 03:22:15,713 [main] INFO BaseClass - URL is entered
+2020-05-08 03:22:34,309 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 03:23:57,610 [main] INFO BaseClass - URL is entered
+2020-05-08 03:24:06,664 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 03:33:40,309 [main] INFO BaseClass - URL is entered
+2020-05-08 03:33:50,604 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 03:33:56,209 [main] INFO BaseClass - Enter message executed
+2020-05-08 03:34:07,502 [main] INFO BaseClass - Posted
+2020-05-08 03:42:13,908 [main] INFO BaseClass - URL is entered
+2020-05-08 03:42:36,831 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 03:42:42,321 [main] INFO BaseClass - Enter message executed
+2020-05-08 03:42:52,507 [main] INFO BaseClass - Posted
+2020-05-08 03:45:06,750 [main] INFO BaseClass - URL is entered
+2020-05-08 03:45:17,601 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 03:58:52,953 [main] INFO BaseClass - URL is entered
+2020-05-08 03:59:02,814 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 04:04:17,764 [main] INFO BaseClass - URL is entered
+2020-05-08 04:04:28,531 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 04:29:57,927 [main] INFO BaseClass - URL is entered
+2020-05-08 04:30:16,792 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 04:30:27,389 [main] INFO BaseClass - Enter message executed
+2020-05-08 04:30:37,603 [main] INFO BaseClass - Posted
+2020-05-08 05:05:37,098 [main] INFO BaseClass - URL is entered
+2020-05-08 05:05:51,311 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 05:05:52,481 [main] INFO BaseClass - Enter message executed
+2020-05-08 05:07:26,425 [main] INFO BaseClass - URL is entered
+2020-05-08 05:07:37,569 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 05:07:38,719 [main] INFO BaseClass - Enter message executed
+2020-05-08 05:08:25,950 [main] INFO BaseClass - Posted
+2020-05-08 05:14:13,421 [main] INFO BaseClass - URL is entered
+2020-05-08 05:14:27,487 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 05:14:28,628 [main] INFO BaseClass - Enter message executed
+2020-05-08 05:14:36,049 [main] INFO BaseClass - Posted
+2020-05-08 05:15:26,316 [main] INFO BaseClass - URL is entered
+2020-05-08 05:15:34,647 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 05:15:38,525 [main] INFO BaseClass - Enter message executed
+2020-05-08 06:47:13,152 [main] INFO BaseClass - URL is entered
+2020-05-08 07:31:13,459 [main] INFO BaseClass - URL is entered
+2020-05-08 07:31:14,391 [main] INFO BaseClass - PageLoaded completely
+2020-05-08 07:31:24,222 [main] INFO BaseClass - Enter message executed
+2020-05-08 07:31:33,711 [main] INFO BaseClass - Posted
+2020-05-08 07:37:17,632 [main] INFO BaseClass - URL is entered
+2020-05-08 07:42:01,095 [main] INFO BaseClass - URL is entered
+2020-05-08 07:53:53,453 [main] INFO BaseClass - URL is entered
+2020-05-08 07:55:49,277 [main] INFO BaseClass - URL is entered
+2020-05-08 07:57:40,513 [main] INFO BaseClass - URL is entered
+2020-05-08 08:01:09,931 [main] INFO BaseClass - URL is entered
+2020-05-08 08:02:38,039 [main] INFO BaseClass - URL is entered
+2020-05-08 08:20:08,584 [main] INFO BaseClass - URL is entered
+2020-05-08 08:21:31,455 [main] INFO BaseClass - URL is entered
+2020-05-08 08:23:44,658 [main] INFO BaseClass - URL is entered
+2020-05-08 08:43:49,991 [main] INFO BaseClass - URL is entered
+2020-05-08 08:45:18,916 [main] INFO BaseClass - URL is entered
+2020-05-08 08:45:38,031 [main] INFO BaseClass - Clicked on stars
+2020-05-08 08:55:33,065 [main] INFO BaseClass - URL is entered
+2020-05-08 08:56:04,303 [main] INFO BaseClass - Clicked on stars
+2020-05-08 08:58:41,388 [main] INFO BaseClass - URL is entered
+2020-05-08 08:59:04,036 [main] INFO BaseClass - Clicked on stars
+2020-05-08 09:06:23,440 [main] INFO BaseClass - URL is entered
+2020-05-08 09:06:49,179 [main] INFO BaseClass - Clicked on stars
+2020-05-08 09:10:07,691 [main] INFO BaseClass - URL is entered
+2020-05-08 09:10:34,192 [main] INFO BaseClass - Clicked on stars
+2020-05-08 23:11:24,021 [main] INFO BaseClass - URL is entered
+2020-05-08 23:12:03,827 [main] INFO BaseClass - Clicked on stars
+2020-05-08 23:40:57,759 [main] INFO BaseClass - URL is entered
+2020-05-08 23:41:25,147 [main] INFO BaseClass - Clicked on stars
+2020-05-09 03:18:45,813 [main] INFO BaseClass - URL is entered
+2020-05-09 03:40:33,864 [main] INFO BaseClass - URL is entered
+2020-05-09 03:42:11,696 [main] INFO BaseClass - URL is entered
+2020-05-09 03:55:52,173 [main] INFO BaseClass - URL is entered
+2020-05-09 09:07:38,995 [main] INFO BaseClass - URL is entered
+2020-05-09 09:28:32,996 [main] INFO BaseClass - URL is entered
+2020-05-09 09:32:04,212 [main] INFO BaseClass - URL is entered
+2020-05-10 00:38:32,077 [main] INFO BaseClass - URL is entered
+2020-05-10 00:38:33,727 [main] INFO BaseClass - Clicked on stars
+2020-05-10 00:43:35,224 [main] INFO BaseClass - URL is entered
+2020-05-10 00:43:36,950 [main] INFO BaseClass - Clicked on stars
+2020-05-10 00:49:05,248 [main] INFO BaseClass - URL is entered
+2020-05-10 00:49:06,317 [main] INFO BaseClass - Clicked on stars
+2020-05-10 00:51:45,388 [main] INFO BaseClass - URL is entered
+2020-05-10 00:51:46,472 [main] INFO BaseClass - Clicked on stars
+2020-05-10 00:55:51,878 [main] INFO BaseClass - URL is entered
+2020-05-10 00:55:53,060 [main] INFO BaseClass - Clicked on stars
+2020-05-10 00:59:23,269 [main] INFO BaseClass - URL is entered
+2020-05-10 00:59:26,940 [main] INFO BaseClass - Clicked on stars
+2020-05-10 01:01:51,852 [main] INFO BaseClass - URL is entered
+2020-05-10 01:11:23,104 [main] INFO BaseClass - URL is entered
+2020-05-10 01:11:24,294 [main] INFO BaseClass - Clicked on stars
+2020-05-10 01:28:05,740 [main] INFO BaseClass - URL is entered
+2020-05-10 01:28:07,085 [main] INFO BaseClass - Clicked on stars
+2020-05-10 01:29:23,060 [main] INFO BaseClass - URL is entered
+2020-05-10 01:31:38,031 [main] INFO BaseClass - URL is entered
+2020-05-10 01:44:24,827 [main] INFO BaseClass - URL is entered
+2020-05-10 01:46:29,901 [main] INFO BaseClass - URL is entered
+2020-05-10 01:46:30,972 [main] INFO BaseClass - Clicked on stars
+2020-05-10 01:53:08,935 [main] INFO BaseClass - URL is entered
+2020-05-10 01:53:15,783 [main] INFO BaseClass - Clicked on stars
+2020-05-10 01:57:20,952 [main] INFO BaseClass - URL is entered
+2020-05-10 02:13:18,453 [main] INFO BaseClass - URL is entered

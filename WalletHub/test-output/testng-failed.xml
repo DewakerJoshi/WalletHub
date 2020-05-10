@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [WalletHubFramwrk]">
+  <parameter name="browser" value="chrome"/>
+  <test name="testngTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.WalletHub.Tests.WalHubPostReviewTest">
+        <methods>
+          <include name="postReviewTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.WalletHub.Tests.WalHubPostReviewTest -->
+    </classes>
+  </test> <!-- testngTest(failed) -->
+</suite> <!-- Failed suite [WalletHubFramwrk] -->
